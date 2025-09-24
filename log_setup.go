@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/go-rlog/logger/slack_api"
+	"github.com/go-rlog/logger/teams_log"
 	"github.com/johntdyer/slackrus"
-	"github.com/rohanthewiz/logger/slack_api"
-	"github.com/rohanthewiz/logger/teams_log"
 	"github.com/sirupsen/logrus"
 )
 

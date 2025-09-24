@@ -1,12 +1,12 @@
-module github.com/rohanthewiz/logger
+module github.com/go-rlog/logger
 
 go 1.23.0
 
 toolchain go1.24.3
 
 require (
+	github.com/go-serr/serr v1.2.19-0.20250924215434-949aa066bad9
 	github.com/johntdyer/slackrus v0.0.0-20230315191314-80bc92dee4fc
-	github.com/rohanthewiz/serr v1.2.16
 	github.com/sirupsen/logrus v1.9.3
 )
 

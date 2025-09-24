@@ -3,7 +3,7 @@ package teams_log
 import (
 	"fmt"
 
-	"github.com/rohanthewiz/serr"
+	"github.com/go-serr/serr"
 	"github.com/sirupsen/logrus"
 )
 

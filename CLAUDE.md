@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Overview
 This is a Go logging package that wraps the `logrus` library with additional features including:
 - Structured logging with key-value pairs
-- Error logging with structured error support via `github.com/rohanthewiz/serr`
+- Error logging with structured error support via `github.com/go-serr/serr`
 - Asynchronous logging capabilities
 - Slack and Microsoft Teams integration
 - Convenience wrapper functions for common logging patterns

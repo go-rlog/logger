@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/rohanthewiz/serr"
+	"github.com/go-serr/serr"
 )
 
 func SendLog(msg MessageCard, url string) (err error) {

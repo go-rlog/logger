@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rohanthewiz/logger"
+	"github.com/go-rlog/logger"
 )
 
 func main() {
